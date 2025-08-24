@@ -18,7 +18,7 @@ This project lets you manage **test suites**, **test cases**, **test runs**, and
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/test-case-manager.git
+git clone https://github.com/TTanoz/test-case-manager.git
 cd test-case-manager
 python -m venv venv
 venv\Scripts\activate
